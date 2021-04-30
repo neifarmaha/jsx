@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(125, 107, 143);
+    padding-left: 30px;
+    
+}
+.space{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    
+}
+.pub {
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
